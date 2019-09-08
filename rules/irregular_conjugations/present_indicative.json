@@ -1,0 +1,282 @@
+{
+  "caber": [
+      [
+          "caibo",
+          "cabe"
+      ],
+      [
+          "cabemos",
+          "cabem"
+      ]
+  ],
+  "crer": [
+      [
+          "creio",
+          "crê"
+      ],
+      [
+          "cremos",
+          "creem"
+      ]
+  ],
+  "dar": [
+      [
+          "dou",
+          "dá"
+      ],
+      [
+          "damos",
+          "dão"
+      ]
+  ],
+  "dizer": [
+      [
+          "digo",
+          "diz"
+      ],
+      [
+          "dizemos",
+          "dizem"
+      ]
+  ],
+  "dormir": [
+      [
+          "durmo",
+          "dorme"
+      ],
+      [
+          "dormimos",
+          "dormem"
+      ]
+  ],
+  "estar": [
+      [
+          "estou",
+          "está"
+      ],
+      [
+          "estamos",
+          "estão"
+      ]
+  ],
+  "fazer": [
+      [
+          "faço",
+          "faz"
+      ],
+      [
+          "fazemos",
+          "fazem"
+      ]
+  ],
+  "haver": [
+      [
+          "hei",
+          "há"
+      ],
+      [
+          "havemos",
+          "hão"
+      ]
+  ],
+  "ir": [
+      [
+          "vou",
+          "vai"
+      ],
+      [
+          "vamos",
+          "vão"
+      ]
+  ],
+  "ler": [
+      [
+          "leio",
+          "lê"
+      ],
+      [
+          "lemos",
+          "leem"
+      ]
+  ],
+  "medir": [
+      [
+          "meço",
+          "mede"
+      ],
+      [
+          "medimos",
+          "medem"
+      ]
+  ],
+  "ouvir": [
+      [
+          "ouço",
+          "ouve"
+      ],
+      [
+          "ouvimos",
+          "ouvem"
+      ]
+  ],
+  "pedir": [
+      [
+          "peço",
+          "pede"
+      ],
+      [
+          "pedimos",
+          "pedem"
+      ]
+  ],
+  "perder": [
+      [
+          "perco",
+          "perde"
+      ],
+      [
+          "perdemos",
+          "perdem"
+      ]
+  ],
+  "poder": [
+      [
+          "posso",
+          "pode"
+      ],
+      [
+          "podemos",
+          "podem"
+      ]
+  ],
+  "pôr": [
+      [
+          "ponho",
+          "põe"
+      ],
+      [
+          "pomos",
+          "põem"
+      ]
+  ],
+  "querer": [
+      [
+          "quero",
+          "quer"
+      ],
+      [
+          "queremos",
+          "querem"
+      ]
+  ],
+  "rir": [
+      [
+          "rio",
+          "ri"
+      ],
+      [
+          "rimos",
+          "riem"
+      ]
+  ],
+  "saber": [
+      [
+          "sei",
+          "sabe"
+      ],
+      [
+          "sabemos",
+          "sabem"
+      ]
+  ],
+  "seguir": [
+      [
+          "sigo",
+          "segue"
+      ],
+      [
+          "seguimos",
+          "seguem"
+      ]
+  ],
+  "ser":  [
+      [
+          "sou",
+          "é"
+      ],
+      [
+          "somos",
+          "são"
+      ]
+  ],
+  "servir":  [
+      [
+          "sirvo",
+          "serve"
+      ],
+      [
+          "servimos",
+          "servem"
+      ]
+  ],
+  "sentir":  [
+      [
+          "sinto",
+          "sente"
+      ],
+      [
+          "sentimos",
+          "sentem"
+      ]
+  ],
+  "ter":  [
+      [
+          "tenho",
+          "tem"
+      ],
+      [
+          "temos",
+          "têm"
+      ]
+  ],
+  "trazer":  [
+      [
+          "trago",
+          "traz"
+      ],
+      [
+          "trazemos",
+          "trazem"
+      ]
+  ],
+  "valer":  [
+      [
+          "valho",
+          "vale"
+      ],
+      [
+          "valemos",
+          "valem"
+      ]
+  ],
+  "ver":  [
+      [
+          "vejo",
+          "vê"
+      ],
+      [
+          "vemos",
+          "veem"
+      ]
+  ],
+  "vir":  [
+      [
+          "venho",
+          "vem"
+      ],
+      [
+          "vimos",
+          "vêm"
+      ]
+  ]
+}
